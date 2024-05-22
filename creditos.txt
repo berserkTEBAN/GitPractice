@@ -1,1 +1,1 @@
--e"Desarrolador:Luis Felipe Cruz Esteban\nEmail:luisfelipecruzesteban398@gmail.com\nGitHub:berserkTeban\nGrupo:DS02SV-23"
+-e "Desarrollador: Luis Felipe Cruz Esteban\nEmail: luisfelipecruzesteban398@gmail.com\nGitHub: berserkTEBAN\nGrupo: DS02SVM-23" 
