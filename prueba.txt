@@ -3,4 +3,10 @@ Me gusta mucho escuchar musica, descubrir nuevas bandas, generos y demas, soy un
 Mi grupo es el DS02SVM-23 
 Mis lenguajes de programación favoritos son Python y JS 
 No me gusta mucho el calor, prefiero el frio la verdad
+Modificar archivo prueba renglón 1 
+Modificar archivo prueba renglón 2
+Modificar archivo prueba renglón 3
+
+
+
 
